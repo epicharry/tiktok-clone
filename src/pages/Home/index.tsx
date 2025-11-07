@@ -2,7 +2,7 @@ import classNames from 'classnames/bind';
 
 import images from '~/assets/images';
 import PostMain from './PostMain';
-import styles from './Home.module.scss';
+import styles from './home.module.scss';
 
 const cx = classNames.bind(styles);
 function Home() {
